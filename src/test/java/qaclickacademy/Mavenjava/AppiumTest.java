@@ -9,11 +9,23 @@ public class AppiumTest
 	public void Androidapps()
 	{
 		System.out.println("Androidapps");
+		System.out.println("Androidapps");
+		System.out.println("Androidapps");
+	}
+	
+	@Test
+	public void NativeAndroidapps()
+	{
+		System.out.println("Androidapps");
+		System.out.println("Androidapps");
+		System.out.println("Androidapps");
 	}
 	
 	@Test
 	public void IOSapps()
 	{
+		System.out.println("IOSapps");
+		System.out.println("IOSapps");
 		System.out.println("IOSapps");
 	}
 }
