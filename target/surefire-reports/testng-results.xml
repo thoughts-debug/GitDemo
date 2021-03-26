@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2021-03-07T15:00:29Z" finished-at="2021-03-07T15:00:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2021-03-07T15:00:29Z" finished-at="2021-03-07T15:00:30Z">
+      <class name="qaclickacademy.Mavenjava.APITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavenjava.APITest@6fb554cc]" name="deleteTwitter" duration-ms="11" started-at="2021-03-07T20:30:30Z" finished-at="2021-03-07T20:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.Mavenjava.APITest@6fb554cc]" name="postJira" duration-ms="0" started-at="2021-03-07T20:30:30Z" finished-at="2021-03-07T20:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavenjava.APITest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@2d554825]" name="BrowserAutomation" duration-ms="1" started-at="2021-03-07T20:30:30Z" finished-at="2021-03-07T20:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@2d554825]" name="elementsUi" duration-ms="0" started-at="2021-03-07T20:30:30Z" finished-at="2021-03-07T20:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
